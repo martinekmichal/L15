@@ -1,0 +1,1 @@
+# Tak stejný případ s databazí zatím nevím. 
