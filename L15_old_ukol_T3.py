@@ -1,1 +1,1 @@
-# Tak stejný případ s databazí zatím nevím. 
+# Tak stejný případ s databazí zatím nevím.
